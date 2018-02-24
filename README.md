@@ -1,6 +1,6 @@
 # Ambient-Light-Monitoring
 
-Scripts to point to twards methods to monitor the ambient light levels. Applied in various measues in bu Raspberry Pi controlled illumination in birdboxes. 
+Scripts to point to twards methods to monitor the ambient light levels. Applied in various actions in Raspberry Pi controlled illumination in birdboxes. 
 
 1) ambient_lightMonitor.py
 Generates ambient light stats by reading light level via a light dependent resistor.
